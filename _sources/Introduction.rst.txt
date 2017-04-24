@@ -1,0 +1,27 @@
+Introduction
+===========================================================
+
+deFusion - a tool to entangle MAKER fused genome annotation
+
+deFusion is a python module developed to solve fused annotation problems experienced while
+using MAKER for whole genome annotation.
+
+There are two types of fused gene annotations by MAKER:
+
+1. fused tandem duplication genes
+2. fused chimera genes
+
+ 
+Scenario1 - tandem duplicated fused gene annotation 
+---------------------------------------------------
+
+ 
+Scenario2 - chimera fused gene annotation 
+-----------------------------------------
+Words can have *emphasis in italics* or be **bold** and you can define
+code samples with back quotes, like when you talk about a command: ``sudo`` 
+gives you super user powers!
+
+
+Solutions
+---------
